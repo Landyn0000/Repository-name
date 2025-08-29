@@ -1,0 +1,19 @@
+ body {
+	background-color: white;
+	font-family: "Times New Roman", Times, Serif;
+	font-size: 12pt;
+	color: #800000; /* Dark maroon for body text */
+	text-align: center; /* Keeps paragraphs center-aligned */
+}
+h1 {
+	display: inline-block;	/* Shrinks width to fit text*/
+	background-color:lightblue;/*Background only around text */
+	font-size: 32pt;
+	color:red;	/* bright red text */
+	padding: 5px 10px; 	/* space around the text */
+	margin: 20px auto; 
+	text-align: center;
+}
+h2{
+
+}

@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="stylesheet" href="MyStyleSheet.css">
+		<title>Fred</title>
+	</head>
+	<body>
+		<h1>Hi, I'm Fred</h1>
+		<h2>I like red</h2>
+		<img src="skull.jpg" alt="skull" width="400">
+	</body>
+</html>body{
